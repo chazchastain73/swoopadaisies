@@ -13,3 +13,35 @@ body {
   max-width: 100%;
   max-height: 100%;
 }
+
+.contact-info {
+  font-family: Arial, sans-serif; /* Choose a suitable font */
+  color: #333; /* Dark gray text color */
+  line-height: 1.6; /* Improve readability */
+  margin: 20px; /* Add some spacing around the block */
+  padding: 15px;
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 5px; /* Slightly rounded corners */
+  background-color: #f9f9f9; /* Light background color */
+}
+
+.contact-info h2 {
+  color: #0056b3; /* Blue heading color */
+  margin-bottom: 10px;
+  font-size: 1.5em; /* Larger heading size */
+}
+
+.contact-info .address {
+  font-style: normal; /* Ensure address is not italicized by default */
+  margin-bottom: 15px;
+}
+
+.contact-info .store-hours {
+  list-style: none; /* Remove default bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.contact-info .store-hours li {
+  margin-bottom: 5px;
+}
