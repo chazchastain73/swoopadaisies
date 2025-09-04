@@ -33,7 +33,8 @@ body {
 
 .contact-info .address {
   font-style: normal; /* Ensure address is not italicized by default */
-  margin-bottom: 5px;
+  padding: 0;
+  margin: 0;
 }
 
 .contact-info .store-hours {
