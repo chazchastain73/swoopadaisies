@@ -27,13 +27,13 @@ body {
 
 .contact-info h2 {
   color: #0e0f48; /* Blue heading color */
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   font-size: 1.5em; /* Larger heading size */
 }
 
 .contact-info .address {
   font-style: normal; /* Ensure address is not italicized by default */
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .contact-info .store-hours {
