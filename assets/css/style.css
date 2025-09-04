@@ -2,6 +2,13 @@ body {
   background-color: #0e0f48;
 }
 
+.colored-hr {
+    height: 3px; /* Sets the thickness of the line */
+    background-color: #00faf2; /* Sets the color of the line (a shade of blue) */
+    border: none; /* Removes the default border, which can create a 3D effect */
+    margin: 20px 0; /* Adds some space above and below the line */
+}
+
 .container {
   display: flex;
   justify-content: space-between; /* Distributes space between columns */
