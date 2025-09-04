@@ -6,9 +6,6 @@ body {
   font-family: Arial, sans-serif; /* Choose a suitable font */
   color: #ffffff; /* Dark gray text color */
   line-height: 1.6; /* Improve readability */
-  margin: 250px; /* Add some spacing around the block */
-  padding: 15px;
-  border-radius: 5px; /* Slightly rounded corners */
   background-color: #0e0f48; /* Bbackground color */
 }
 
