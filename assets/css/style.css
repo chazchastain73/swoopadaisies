@@ -3,16 +3,16 @@ body {
 }
 
 .colored-hr {
-    height: 3px; /* Sets the thickness of the line */
+    height: 2px; /* Sets the thickness of the line */
     background-color: #00faf2; /* Sets the color of the line (a shade of blue) */
     border: none; /* Removes the default border, which can create a 3D effect */
-    margin: 5px; /* Adds some space above and below the line */
-    width: 600px;
+    margin: 10px; /* Adds some space above and below the line */
+    width: 750px;
 }
 
 .container {
   display: flex;
-  justify-content: center; /* Distributes space between columns */
+  justify-content: space-between; /* Distributes space between columns */
   width: 700px;
 }
 
