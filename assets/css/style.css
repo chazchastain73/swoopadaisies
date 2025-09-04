@@ -6,7 +6,8 @@ body {
     height: 3px; /* Sets the thickness of the line */
     background-color: #00faf2; /* Sets the color of the line (a shade of blue) */
     border: none; /* Removes the default border, which can create a 3D effect */
-    margin: 20px 0; /* Adds some space above and below the line */
+    margin: 5px; /* Adds some space above and below the line */
+    width: 600px;
 }
 
 .container {
