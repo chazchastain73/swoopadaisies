@@ -6,14 +6,14 @@ body {
     height: 2px; /* Sets the thickness of the line */
     background-color: #00faf2; /* Sets the color of the line (a shade of blue) */
     border: none; /* Removes the default border, which can create a 3D effect */
-    width: 50%; /* Adjust the width as needed */
+    width: 60%; /* Adjust the width as needed */
     margin: 0 auto;
 }
 
 .container {
   display: flex;
   justify-content: space-between; /* Distributes space between columns */
-  width: 35%; /* Adjust the width as needed */
+  width: 50%; /* Adjust the width as needed */
   margin: 0 auto;
 }
 
